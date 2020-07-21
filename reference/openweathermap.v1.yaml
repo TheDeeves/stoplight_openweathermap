@@ -144,7 +144,7 @@ paths:
                         id:
                           type: number
                           description: Weather condition id
-                          example: ‘803’
+                          example: 803
                         main:
                           type: string
                           description: '‘Group of weather parameters (Rain, Snow, Extreme etc.'
